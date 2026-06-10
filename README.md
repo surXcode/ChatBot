@@ -1,3 +1,8 @@
+# chatbot Link
+
+https://chat-bot-smoky-psi.vercel.app/
+
+
 # 🤖 FAQ Assistant
 
 A full-stack AI-powered FAQ chatbot built with React, Node.js, MongoDB, and Groq (LLaMA 3.3 70B). Supports streaming responses, conversation history, and session management.
